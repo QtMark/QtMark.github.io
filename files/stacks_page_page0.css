@@ -1,0 +1,98 @@
+/* NoCurrent stack v1.3.2 */
+
+#stacks_in_1017_page0 {
+	display: none !important;
+}
+
+#current, .current, #current a, .current a {
+	cursor: default !important;
+	-webkit-user-select: none !important;
+	-webkit-touch-callout: none !important;
+	-webkit-tap-highlight-color: transparent !important
+}
+
+#current:focus, .current:focus, #current a:focus, .current a:focus {
+	  outline: 0 !important;
+}
+
+#current:hover, .current:hover, #current a:hover, .current a:hover {
+	text-shadow: none !important; /* for the Escape theme (a.o) */
+}
+/* End of NoCurrent stack *//* Font style applied when the page has finished loading */
+
+#ExtraContentPlusstacks_in_p675_n1040_page0 #myExtraContent1,
+#ExtraContentPlusstacks_in_p675_n1040_page0 #fs {
+	display: none;
+}
+
+/* Start Responsive Shim stack CSS code */.stacks_in_1450_page0shim{	padding-top: 5%;}/* End Responsive Shim stack CSS code *//* Start Responsive Shim stack CSS code */.stacks_in_1104_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_641_page0 ul,#stacks_in_641_page0 ol,#stacks_in_641_page0 dl{list-style-position:inside}#stacks_in_641_page0 .float-container{float:left;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_641_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_641_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_641_page0 .float-text.justify{text-align:justify}#stacks_in_641_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_740_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_731_page0 ul,#stacks_in_731_page0 ol,#stacks_in_731_page0 dl{list-style-position:inside}#stacks_in_731_page0 .float-container{float:right;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_731_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_731_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_731_page0 .float-text.justify{text-align:justify}#stacks_in_731_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_645_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_727_page0 ul,#stacks_in_727_page0 ol,#stacks_in_727_page0 dl{list-style-position:inside}#stacks_in_727_page0 .float-container{float:left;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_727_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_727_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_727_page0 .float-text.justify{text-align:justify}#stacks_in_727_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_726_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_741_page0 ul,#stacks_in_741_page0 ol,#stacks_in_741_page0 dl{list-style-position:inside}#stacks_in_741_page0 .float-container{float:right;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_741_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_741_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_741_page0 .float-text.justify{text-align:justify}#stacks_in_741_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_1830_page0shim{	padding-top: 5%;}/* End Responsive Shim stack CSS code *//* Start Responsive Shim stack CSS code */.stacks_in_1103_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_750_page0 ul,#stacks_in_750_page0 ol,#stacks_in_750_page0 dl{list-style-position:inside}#stacks_in_750_page0 .float-container{float:left;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_750_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_750_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_750_page0 .float-text.justify{text-align:justify}#stacks_in_750_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_1832_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_764_page0 ul,#stacks_in_764_page0 ol,#stacks_in_764_page0 dl{list-style-position:inside}#stacks_in_764_page0 .float-container{float:right;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_764_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_764_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_764_page0 .float-text.justify{text-align:justify}#stacks_in_764_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_1833_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_792_page0 ul,#stacks_in_792_page0 ol,#stacks_in_792_page0 dl{list-style-position:inside}#stacks_in_792_page0 .float-container{float:left;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_792_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_792_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_792_page0 .float-text.justify{text-align:justify}#stacks_in_792_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_1834_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_796_page0 ul,#stacks_in_796_page0 ol,#stacks_in_796_page0 dl{list-style-position:inside}#stacks_in_796_page0 .float-container{float:right;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_796_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_796_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_796_page0 .float-text.justify{text-align:justify}#stacks_in_796_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_1709_page0shim{	padding-top: 5%;}/* End Responsive Shim stack CSS code *//* Start Responsive Shim stack CSS code */.stacks_in_1102_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_1711_page0 ul,#stacks_in_1711_page0 ol,#stacks_in_1711_page0 dl{list-style-position:inside}#stacks_in_1711_page0 .float-container{float:left;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_1711_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_1711_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_1711_page0 .float-text.justify{text-align:justify}#stacks_in_1711_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Start Responsive Shim stack CSS code */.stacks_in_1835_page0shim{	padding-top: 3%;}/* End Responsive Shim stack CSS code */#stacks_in_800_page0 ul,#stacks_in_800_page0 ol,#stacks_in_800_page0 dl{list-style-position:inside}#stacks_in_800_page0 .float-container{float:right;width:33%;margin:0 5px 5px 0;z-index:100}#stacks_in_800_page0 .float-container.float-right{margin:0 0 5px 5px}@media screen and (max-width:500px){#stacks_in_800_page0 .float-container.responsive{float:none;width:100%;margin:0 0 5px 0}}#stacks_in_800_page0 .float-text.justify{text-align:justify}#stacks_in_800_page0 .float-text.hyphenate{-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto}
+/* Font style applied when the page has finished loading */
+
+#ExtraContentPlusstacks_in_p539_n1141_page0 #myExtraContent5,
+#ExtraContentPlusstacks_in_p539_n1141_page0 #fs {
+	display: none;
+}
+
+#stacks_in_p539_n428_page0>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_p539_n428_page0>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_p539_n428_page0>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_p539_n428_page0>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+  
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_p539_n428_page0>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_p539_n428_page0>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+  

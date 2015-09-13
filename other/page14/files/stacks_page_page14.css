@@ -1,0 +1,66 @@
+/* Font style applied when the page has finished loading */
+
+#ExtraContentPlusstacks_in_1333_page14 #myExtraContent6,
+#ExtraContentPlusstacks_in_1333_page14 #fs {
+	display: none;
+}
+
+#stacks_in_1339_page14>.s3_row {
+	margin: 0 -0px;
+}
+
+#stacks_in_1339_page14>.s3_row>.s3_column_left {
+	width: 33.33%;
+}
+
+#stacks_in_1339_page14>.s3_row>.s3_column_center {
+	width: 33.339996%;
+}
+
+#stacks_in_1339_page14>.s3_row>.s3_column_right {
+	width: 33.33%;
+}
+
+
+
+
+#stacks_in_1339_page14>.s3_row>.s3_column {
+	padding: 0 0px;
+}
+
+
+
+
+
+
+
+  
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_1339_page14>.s3_row  {
+		margin: -0px 0;
+	}
+	#stacks_in_1339_page14>.s3_row>.s3_column {
+		padding: 0px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+  

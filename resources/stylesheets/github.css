@@ -1,0 +1,79 @@
+@import url(github_local.css);
+
+/* repos */
+div#repos.github ul.repos, div#repos.github ul.repo_properties {
+  margin: 0;
+  padding: 0 0 5px 0;
+  list-style-type: none;
+}
+div#repos.github ul.repo_properties {
+  padding: 0 0 5px 35px;
+  font-size: 80%;
+}
+div#repos.github ul.repo_properties li:after {
+  content: ", ";
+}
+div#repos.github ul.repo_properties li:last-child:after {
+  content: "";
+}
+div#repos.github ul.repos li.repo {
+  padding: 0 0 5px 0;
+}
+div#repos.github ul.repo_properties li.repository,
+div#repos.github ul.repo_properties li.wiki,
+div#repos.github ul.repo_properties li.tracker,
+div#repos.github ul.repo_properties li.documentation,
+div#repos.github ul.repo_properties li.download {
+  display: inline;
+  padding: 0 5px 0 0;
+}
+div#repos.github ul.repos li.repo span.repo_name {
+  font-weight: bold;
+}
+
+/* Members */
+div#members.github ul.members {
+  list-style-type: none;
+}
+div#members.github ul.members li.member {
+  /*font-weight: bold;*/
+  margin: 0;
+  padding: 0 0 0.25em 0;
+  clear: both;
+}
+div#members.github ul.members li.member img.member {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
+
+/* Contributors */
+div#contributors.github ul.contributors, div#contributors.github ul.repos {
+  margin: 0;
+  padding: 0 0 5px 0;
+}
+div#contributors.github ul.contributors {
+  list-style-type: none;
+}
+div#contributors.github ul.repos {
+  list-style-type: disc;
+  padding: 0 0 5px 80px;
+  font-size: 80%;
+}
+div#contributors.github ul.repos li:after {
+  content: ", ";
+}
+div#contributors.github ul.repos li:last-child:after {
+  content: "";
+}
+div#contributors.github ul.contributors li.contributor {
+  padding: 0 0 5px 25px;
+  clear: both;
+}
+div#contributors.github ul.repos li.repo {
+  padding: 0 5px 5px 5px;
+  display: inline;
+}
+div#contributors.github ul.contributors li.contributor img.contributor {
+  float: left;
+  margin: 0px 15px 15px 0px;
+}

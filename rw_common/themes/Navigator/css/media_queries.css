@@ -1,0 +1,267 @@
+/* We use this media query to add styles to any device that supports media queries */
+@media only screen {
+
+	.theme_padding {
+	  padding: 40px;
+	}
+	
+	#title_bar {
+	  height: 56px;
+	  line-height: 56px;
+	  font-size: 22px;
+	}
+
+	#title_bar a#site_title, 
+	#title_bar a#site_title h1  {
+	  line-height: 56px;
+	  font-size: 22px;
+	}
+
+	#trigger_button {
+	  left: 10px;
+	  top: 10px;
+	}
+
+	#slogan h2 {
+	  font-size: 42px;
+	  line-height: 44px;
+	  padding: 10px 20px;
+	}
+
+	#scrollToTopButton {
+	  right: 40px; 
+	  bottom: 40px; 
+	}	
+
+}
+
+@media only screen and (max-width: 1024px) {
+	.theme_padding {
+	  padding: 40px;
+	}
+
+	#title_bar {
+	  height: 46px;
+	  line-height: 46px;
+	  font-size: 22px;
+	  padding-right: 10px;
+	}
+
+	#title_bar a#site_title, 
+	#title_bar a#site_title h1  {
+	  line-height: 46px;
+	  font-size: 22px;
+	}
+	
+	#trigger_button {
+	  left: 5px;
+	  top: 5px;
+	}
+
+	#slogan h2 {
+	  font-size: 36px;
+	  line-height: 36px;
+	  padding: 10px 20px;
+	  letter-spacing: -2px;
+	}
+
+	#scrollToTopButton {
+	  right: 20px !important; 
+	  bottom: 20px !important; 
+	}	
+
+}
+
+/* Used to alter styles for screens at least 768px wide. */
+@media only screen and (max-width: 768px) {
+	.theme_padding {
+	  padding: 20px;
+	}
+
+	h1 {
+		font-size: 36px;
+		line-height: 56px;
+		letter-spacing: -2px;
+	}
+
+	h2 {
+		font-size: 34px;
+		line-height: 50px;
+		letter-spacing: -1px;
+	}
+
+	h3 {
+		font-size: 28x;
+		line-height: 44px;
+		letter-spacing: -1px;
+	}
+
+	h4 {
+		font-size: 22px;
+		line-height: 38px;
+		letter-spacing: 0px;
+	}
+
+	h5 {
+		font-size: 18px;
+		line-height: 34px;
+		letter-spacing: 0px;
+	}
+
+	h6 {
+		font-size: 16px;
+		line-height: 32px;
+		letter-spacing: 0px;
+	}
+
+	#title_bar {
+	  height: 36px;
+	  line-height: 36px;
+	  font-size: 18px;
+	  padding-right: 5px;
+	}
+
+	#title_bar a#site_title, 
+	#title_bar a#site_title h1  {
+	  line-height: 36px;
+	  font-size: 18px;
+	}
+	
+	#trigger_button {
+	  left: 5px;
+	  top: 0px;
+	}
+
+	#slogan {
+		margin-top: -36px;
+	}
+	
+	#slogan h2 {
+	  font-size: 26px;
+	  line-height: 26px;
+	  padding: 10px 20px;
+	  letter-spacing: -2px;
+	}
+
+}
+
+/* Used to alter styles for screens at least 640px wide. */
+@media only screen and (max-width: 640px) {
+	aside#sidebar {
+		margin-top: 20px;
+	}
+}
+
+/* Used to alter styles for screens at least 480px wide. */
+@media only screen and (max-width: 480px) {	
+	.theme_padding {
+	  padding: 10px;
+	}
+
+	h1 {
+		font-size: 36px;
+		line-height: 54px;
+		letter-spacing: -1px;
+	}
+
+	h2 {
+		font-size: 30px;
+		line-height: 46px;
+		letter-spacing: -1px;
+	}
+
+	h3 {
+		font-size: 26x;
+		line-height: 40px;
+		letter-spacing: 0px;
+	}
+
+	h4 {
+		font-size: 20px;
+		line-height: 34px;
+		letter-spacing: 0px;
+	}
+
+	h5 {
+		font-size: 18px;
+		line-height: 34px;
+		letter-spacing: 0px;
+	}
+
+	h6 {
+		font-size: 16px;
+		line-height: 32px;
+		letter-spacing: 0px;
+	}
+
+	#slogan h2 {
+	  font-size: 18px;
+	  line-height: 18px;
+	  padding: 10px 20px;
+	  letter-spacing: -1px;
+	}
+
+	#trigger_button {
+	  left: 5px;
+	  top: 0px;
+	}
+
+	#scrollToTopButton {
+	  right: 10px !important; 
+	  bottom: 10px !important; 
+	}	
+
+}
+
+@media only screen and (max-width: 640px) {
+}
+
+/* Used to alter styles for screens at least 1280px wide. */
+@media only screen and (min-width: 769px) {
+	h1 {
+			font-size: 44px;
+			line-height: 60px;
+			letter-spacing: -2px;
+		}
+
+		h2 {
+			font-size: 38px;
+			line-height: 54px;
+			letter-spacing: -2px;
+		}
+
+		h3 {
+			font-size: 32px;
+			line-height: 48px;
+			letter-spacing: -1px;
+		}
+
+		h4 {
+			font-size: 26px;
+			line-height: 42px;
+			letter-spacing: -1px;
+		}
+
+		h5 {
+			font-size: 20px;
+			line-height: 36px;
+			letter-spacing: 0px;
+		}
+
+		h6 {
+			font-size: 18px;
+			line-height: 34px;
+			letter-spacing: 0px;
+		}
+}
+
+
+/* Apply styles to screens in landscape orientation */
+@media only screen and (orientation: landscape) {}
+
+/* Apply styles to screens in portrait orientation */
+@media only screen and (orientation: portrait) {}
+
+/* We also use Modernizr to add a .touch class to the body when applicable */
+/* You can prepend this class to anything and it will style only for touch devices */
+.touch .your-element {}

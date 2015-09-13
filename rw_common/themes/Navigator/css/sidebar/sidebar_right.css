@@ -1,0 +1,10 @@
+@media only screen and (min-width: 640px) {
+	#sidebar {
+		display: block;
+		padding-left: 0;
+	}
+
+	#content_container {
+		padding-right: 40px;
+	}
+}

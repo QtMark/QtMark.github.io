@@ -1,0 +1,9 @@
+/* Hide the actual footer */
+footer { display: none; }
+/* Change the H3 headers, unless they are links */
+div#content_container a h3 { color: #4c8ebd; }
+div#content_container h3 { color: #859900; }
+/* get rid of the scrollbar in nav unless it's actually needed */
+nav#menu-1.site_navigation.st-effect-1.st-menu { overflow-y: auto; }
+/* move the notify popup */
+/*div#doonotify-notice-wrapper { top: 55px; }*/

@@ -1,0 +1,72 @@
+/* Font style applied when the page has finished loading */
+
+#ExtraContentPlusstacks_in_p689_n1040_page8 #myExtraContent1,
+#ExtraContentPlusstacks_in_p689_n1040_page8 #fs {
+	display: none;
+}
+
+
+#stacks_in_779_page8 {
+	background-color: rgba(255, 255, 0, 1.00);
+}
+/* Font style applied when the page has finished loading */
+
+#ExtraContentPlusstacks_in_p410_n1141_page8 #myExtraContent5,
+#ExtraContentPlusstacks_in_p410_n1141_page8 #fs {
+	display: none;
+}
+
+#stacks_in_p410_n428_page8>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_p410_n428_page8>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_p410_n428_page8>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_p410_n428_page8>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+  
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_p410_n428_page8>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_p410_n428_page8>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+  

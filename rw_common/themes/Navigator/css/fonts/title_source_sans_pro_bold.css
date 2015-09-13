@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Source%20Sans%20Pro);
+
+#title_bar a#site_title, 
+#title_bar a#site_title h1,
+.site_navigation h1.site_title_in_navigation  {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+}
+
+

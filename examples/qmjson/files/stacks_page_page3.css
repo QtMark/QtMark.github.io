@@ -1,0 +1,81 @@
+/* NoCurrent stack v1.3.2 */
+
+#stacks_in_1019_page3 {
+	display: none !important;
+}
+
+#current, .current, #current a, .current a {
+	cursor: default !important;
+	-webkit-user-select: none !important;
+	-webkit-touch-callout: none !important;
+	-webkit-tap-highlight-color: transparent !important
+}
+
+#current:focus, .current:focus, #current a:focus, .current a:focus {
+	  outline: 0 !important;
+}
+
+#current:hover, .current:hover, #current a:hover, .current a:hover {
+	text-shadow: none !important; /* for the Escape theme (a.o) */
+}
+/* End of NoCurrent stack *//* Font style applied when the page has finished loading */
+
+#ExtraContentPlusstacks_in_p574_n1141_page3 #myExtraContent5,
+#ExtraContentPlusstacks_in_p574_n1141_page3 #fs {
+	display: none;
+}
+
+#stacks_in_p574_n428_page3>.s3_row {
+	margin: 0 -10px;
+}
+
+#stacks_in_p574_n428_page3>.s3_row>.s3_column_left {
+	width: 50.00%;
+}
+
+#stacks_in_p574_n428_page3>.s3_row>.s3_column_right {
+	width: 50.000000%;
+}
+
+
+
+
+#stacks_in_p574_n428_page3>.s3_row>.s3_column {
+	padding: 0 10px;
+}
+
+
+
+
+
+
+
+  
+
+
+@media only screen and (max-width: 770px) {
+
+
+
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+
+	#stacks_in_p574_n428_page3>.s3_row  {
+		margin: -10px 0;
+	}
+	#stacks_in_p574_n428_page3>.s3_row>.s3_column {
+		padding: 10px 0;
+		width:100%;
+	}
+
+
+}
+
+
+
+
+  

@@ -1,0 +1,8 @@
+#content_position,
+.width_setting {
+	max-width: 900px;
+}
+
+#content_position {
+  margin: 0 auto;
+}

@@ -1,0 +1,89 @@
+.st-pusher {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-pusher::after {
+  -webkit-transition: opacity 0.25s, width 0.1s 0.25s, height 0.1s 0.25s;
+  transition: opacity 0.25s, width 0.1s 0.25s, height 0.1s 0.25s;
+}
+
+.st-menu-open .st-pusher::after {
+  -webkit-transition: opacity 0.25s;
+  transition: opacity 0.25s;
+}
+
+.st-menu {
+  -webkit-transition: all 0.25s;
+  transition: all 0.25s;
+}
+
+.st-menu::after {
+  -webkit-transition: opacity 0.25s;
+  transition: opacity 0.25s;
+}
+
+.st-menu-open .st-menu::after {
+  -webkit-transition: opacity 0.25s, width 0.1s 0.25s, height 0.1s 0.25s;
+  transition: opacity 0.25s, width 0.1s 0.25s, height 0.1s 0.25s;
+}
+
+.st-menu ul li a {
+  -webkit-transition: background 0.3s, box-shadow 0.3s;
+  transition: background 0.3s, box-shadow 0.3s;
+}
+
+.st-effect-2.st-menu-open .st-effect-2.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-3.st-menu-open .st-effect-3.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-4.st-menu-open .st-effect-4.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-5.st-menu-open .st-effect-5.st-menu {
+  transition: transform 0.25s;
+}
+
+.st-effect-7.st-menu-open .st-effect-7.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-8.st-menu-open .st-effect-8.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-9.st-menu-open .st-effect-9.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-10.st-menu-open .st-effect-10.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-11.st-menu-open .st-effect-11.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-12.st-menu-open .st-effect-12.st-menu {
+  -webkit-transition: -webkit-transform 0.25s;
+  transition: transform 0.25s;
+}
+
+.st-effect-13.st-menu-open .st-effect-13.st-menu {
+  -webkit-transition-speed: 0.2s;
+  transition-speed: 0.2s;
+}
+

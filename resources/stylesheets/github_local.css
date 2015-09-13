@@ -1,0 +1,5 @@
+/* Don't show the repo that generates the web page. */
+div#repos.github ul.repos li#QtMark\.github\.io.repo {
+  display: none;
+}
+
